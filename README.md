@@ -18,7 +18,7 @@ Markdown语法<br>
 1 要显示一个超链接的话，就直接输入这个链接的**URL**<br>  
 https://github.com/BDDB1/hello-world/edit/main/README.md
 >
-2 给一段文字加入超链接的格式: [要显示的文字](链接的地址"悬停显示的字")，其中“悬停显示的字”是可选项 
+2 给一段文字加入超链接的格式: [要显示的文字](链接的地址"悬停显示的字")，其中“悬停显示的字”是可选项  
 [My csdn url](https://blog.csdn.net/hold_the_key?type=blog"承诺$枷锁csdn博客地址")
 >
 3 插入圆点符，在文字前加 * ，要注意的是星号* 后面要有一个空格，否则显示为普通星号。此外还有二级圆点和三级圆点。就是多加一个Tab,即第二行一个 Tab ,第三行两个 Tab。  
@@ -47,9 +47,9 @@ sum1+++sum2
 ```
 
 ***插入表格***  
-|First Header | Second Header|
-|Content Cell | Content Cell |
-|Content Cell | Content Cell |
-***以上基本够用了，不会的就用HTML标签，值得一提的是，Markdown支持大部分HTML标签，如<br>***
-附:[markdown支持的html标签](https://github.com/github/markup/tree/master#readme)
-转载:[](https://www.cnblogs.com/jingwhale/p/4223657.html)
+|First Header | Second Header|  
+|Content Cell | Content Cell |  
+|Content Cell | Content Cell |  
+***以上基本够用了，不会的就用HTML标签，值得一提的是，Markdown支持大部分HTML标签，如<br>***  
+附:[markdown支持的html标签](https://github.com/github/markup/tree/master#readme)  
+转载:[大佬](https://www.cnblogs.com/jingwhale/p/4223657.html)  
