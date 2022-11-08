@@ -48,8 +48,8 @@ sum1+++sum2
 
 ***插入表格***  
 |First Header | Second Header|  
-|Content Cell | Content Cell |  
-|Content Cell | Content Cell |  
+|Content Cell | Content Cell   |  
+|Content Cell | Content Cell   |  
 ***以上基本够用了，不会的就用HTML标签，值得一提的是，Markdown支持大部分HTML标签，如<br>***  
 附:[markdown支持的html标签](https://github.com/github/markup/tree/master#readme)  
 转载:[大佬](https://www.cnblogs.com/jingwhale/p/4223657.html)  
