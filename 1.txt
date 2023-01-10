@@ -4,6 +4,12 @@ hello world
 gasuadhsuavdhacvgahha
 www.baidu.com
 git br
+this is push code:
+//commit all the modified files to the staging area
 git add .
+//commit to the local repository
 git ci -m "TTT"
+//push to the remote end
 git push origin branch_name
+
+
